@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A test http server by wrex",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.3",
     "child_process": "^1.0.2",
-    "express": "^4.17.3",
-    "forever": "^0.15.3"
+    "express": "^4.21.1",
+    "forever": "^4.0.0"
   },
   "author": "generalwrex",
   "license": "MIT"
